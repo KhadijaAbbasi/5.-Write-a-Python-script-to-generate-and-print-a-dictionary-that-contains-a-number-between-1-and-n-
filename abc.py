@@ -1,4 +1,4 @@
 dic={}
-for x in range(2,10):
+for x in range(1,10):
 	dic[x]=x*x
 print(dic)
